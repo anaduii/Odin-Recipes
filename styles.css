@@ -1,0 +1,42 @@
+body {
+    margin: auto;
+    text-align: center;
+    background-color: bisque;
+}
+
+h1 {
+    background-color: bisque;
+    text-align: center;
+    margin: auto
+}
+
+ul {
+    list-style-position: inside;
+}
+
+li {    
+    margin: 10px;
+    padding: 10px;
+    border-color: black;
+    border-style: solid;
+    width: 300px;   
+    margin: 10px 535px;
+}
+
+#pizookie {
+    background-color: aqua;
+}
+
+#sushi {
+    background-color: aquamarine;
+}
+
+#tuna  {
+    background-color: bisque;
+}
+
+img {
+    mix-blend-mode: multiply;  
+    border-style: solid; 
+    border-color: rgb(255, 0, 255);
+}

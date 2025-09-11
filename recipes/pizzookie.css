@@ -1,0 +1,62 @@
+body {
+    background-color: aqua;
+}
+
+.description {
+    border-style: solid;
+    padding: 20px;
+    background-color: #beb9bd;
+    margin: 20px 10px;
+    
+}
+
+h1 {
+    font-size: 36px;
+}
+
+img {
+    
+    background-color: black;
+    padding: 7.5px;
+}
+
+.ingredients {
+    border-style: solid;
+    background-color: #caf2f1;
+    padding-left: 20px;
+    margin: 20px 10px;
+    padding-bottom: 7.5px;
+}
+
+li {
+    padding: 3.5px;
+}
+
+#homepage {
+    background-color: #6abac3;
+    padding: 12.5px;
+    text-align: center;
+    margin: 0 auto;
+    width: 150px;
+    display: block;
+}
+
+.mini_text {
+    color: rgb(32, 5, 92);
+}
+
+.steps {
+    border-style: solid;
+    border-color: black;
+    background-color: #d5d6d8;
+    margin: 20px 10px;
+    margin-bottom: 5px;
+}
+
+#steps {
+    padding-left: 20px;
+}
+
+.bottom {
+    margin: 10px 5px;
+}
