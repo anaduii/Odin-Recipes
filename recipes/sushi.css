@@ -1,14 +1,13 @@
 body {
-    background-color: aqua;
+    background-color: aquamarine;
 }
 
 .description {
     border-style: solid;
     padding: 20px;
-    background-color: #beb9bd;
+    background-color: 	#7cf9d6;
     margin: 20px 10px;
     margin-top: 40px;
-    
     
 }
 
@@ -20,11 +19,13 @@ img {
     
     background-color: black;
     padding: 7.5px;
+    margin: 7.5px 25px;
+    margin-bottom: 0px;
 }
 
 .ingredients {
     border-style: solid;
-    background-color: #caf2f1;
+    background-color: #6feeb7;
     padding-left: 20px;
     margin: 20px 10px;
     padding-bottom: 7.5px;
@@ -35,7 +36,7 @@ li {
 }
 
 #homepage {
-    background-color: #6abac3;
+    background-color: #8faff2;
     padding: 12.5px;
     text-align: center;
     margin: 0 auto;
@@ -44,13 +45,14 @@ li {
 }
 
 .mini_text {
-    color: rgb(32, 5, 92);
+    color: 	#74a7b2;
+    margin: 5px 20px;
 }
 
 .steps {
     border-style: solid;
     border-color: black;
-    background-color: #d5d6d8;
+    background-color: 	#7fccb6;
     margin: 20px 10px;
     margin-bottom: 5px;
 }
@@ -59,6 +61,7 @@ li {
     padding-left: 20px;
 }
 
-.bottom {
-    margin: 10px 5px;
+.mini_text.bottom {
+    margin: 13px 13px;
 }
+
