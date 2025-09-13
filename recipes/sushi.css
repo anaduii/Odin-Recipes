@@ -3,11 +3,14 @@ body {
 }
 
 .description {
-    border-style: solid;
+    border-style: dotted;
+    text-align: center;
     padding: 20px;
-    background-color: 	#7cf9d6;
-    margin: 20px 10px;
-    margin-top: 40px;
+    background-color: #00ced1;
+    margin: auto 10px;
+    margin-top: 30px;
+    border-color: black;
+    color: black;
     
 }
 
@@ -32,7 +35,7 @@ img {
 }
 
 li {
-    padding: 3.5px;
+    padding: 10.5px;
 }
 
 #homepage {
@@ -45,7 +48,7 @@ li {
 }
 
 .mini_text {
-    color: 	#74a7b2;
+    color: 	#00b7eb;
     margin: 5px 20px;
 }
 

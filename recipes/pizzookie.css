@@ -3,7 +3,7 @@ body {
 }
 
 .description {
-    border-style: solid;
+    border-style: dotted;
     padding: 20px;
     background-color: #beb9bd;
     margin: 20px 10px;
@@ -31,7 +31,7 @@ img {
 }
 
 li {
-    padding: 3.5px;
+    padding: 10.5px;
 }
 
 #homepage {

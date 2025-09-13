@@ -3,6 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>  Tuna Sandwhich Recipe </title>
+        <link rel="stylesheet" href="sandwich.css"
     </head>
 
     <body>
@@ -10,13 +11,15 @@
         <fig>
            <img src ="./IMG_0335.png"alt ='Tuna Sandwhich split open to see contents' width = 500 height= 650">
             <!-- Add the sandwhich image I make -->
-            <figcaption> <strong> A very basic yet delicous sandwhich! </strong> </figcaption>
+            <figcaption class = 'mini_text'> <strong> A very basic yet delicous sandwhich! </strong> </figcaption>
         </fig>
 
-        <p> If you are ever hungry and don't have the time to cook, make this quick and easy sandwhich. All you need is tuna, mayo and some bread;
+        <p class = 'description'> If you are ever hungry and don't have the time to cook, make this quick and easy sandwhich. All you need is tuna, mayo and some bread;
             nothing fancy  is required. This is a perfectly healthy snack by itself, but if it is too bland you can add your own sanwich ingredients like I have. </p>
-        <h2> Ingredients: </h2>
-        <aside> <em> For 2 servings </em> </aside>
+        
+        <div class="ingredients">
+            <h2> Ingredients: </h2>
+        <aside class = 'mini_text'> <em> For 2 servings </em> </aside>
         <ul> 
             <li> Any Bread - 2 Slices </li>
             <li> Black Pepper - 1 Teaspoon </li>
@@ -25,8 +28,10 @@
             <li> Tuna Container - 1 Tablespoon </li>
             <li> Lettuce - 0.5 Gram </li>
         </ul>
-
-        <h2> Steps: </h2>
+        </div>
+        
+        <div class = 'steps'>
+        <h2 id = 'steps'> Steps: </h2>
         <ol>
             <li> Using a can opener, open the tuna can and pour all the liquid out. Then place the tuna  in a bowl. </li>
             <li> With a spoon, get the mayonaisse out of its jar and put 2 table spoons of mayo on the tuna in the bowl.</li>
@@ -34,7 +39,11 @@
             <li> Spread the combination of tuna and mayonaisse on both slices of the bread </li>
             <li> Finally, add  lettuce pieces on top of the tuna and spread out the jalapenos</li>
         </ol>
-        <p> <strong> <em> The Basic Tuna Sandwhich </strong> </em> is now ready to eat! </p>
-                <p> <a href = '../index.html'> Home </a> </p>
+        </div>
+
+        <p class = 'mini_text bottom'> <strong> <em> The Basic Tuna Sandwhich </strong> </em> is now ready to eat! </p>
+        <button> <a href = '../index.html'> Home </a> </button>
+
+
     </body>
 </html>
