@@ -1,9 +1,11 @@
 body {
     background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .description {
     border-style: dotted;
+    text-align: center;
     padding: 20px;
     background-color: #beb9bd;
     margin: 20px 10px;

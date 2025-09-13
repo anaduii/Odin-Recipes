@@ -1,10 +1,11 @@
 body {
     background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .description {
     border-style: dotted;
-    text-align: center ;
+    text-align: center;
     padding: 20px;
     background-color: #00ced1;
     margin: auto 10px;
